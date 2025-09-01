@@ -22,17 +22,6 @@
     "source": "pokemongo"
   },
   {
-    "title": "Path of Exile 2: The Third Edict Launch - Live Updates 🔴",
-    "url": "https://www.pathofexile.com/forum/view-thread/3829269",
-    "date": "2025-08-29T17:59:20Z",
-    "summary": "<a href=\"https://pathofexile2.com/edict\">Path of Exile 2: The Third Edict</a> launches soon! We'll be updating this thread live throughout the day with any relevant info you may need about the game's deployment. \n<a href=\"https://www.pathofexile.com/forum/view-thread/3829269\">Read More.</a>",
-    "image": "images/poe-logo.png",
-    "subheading": "Path of Exile",
-    "game_icon": "",
-    "game": "pathofexile",
-    "source": "poe"
-  },
-  {
     "title": "Season 36: The Lords of Hell - Preview",
     "url": "https://news.blizzard.com/en-us/article/24231417/season-36-the-lords-of-hell-preview",
     "date": "2025-08-29T17:00:00Z",
@@ -900,5 +889,16 @@
     "game_icon": "",
     "game": "pokemongo",
     "source": "pokemongo"
+  },
+  {
+    "title": "Mercenaries Vault Pass Concept Art",
+    "url": "https://www.pathofexile.com/forum/view-thread/3794728",
+    "date": "2025-06-19T21:00:00Z",
+    "summary": "The Mercenaries of Trarthus edition of Kirac's Vault Pass has an exclusive cosmetic armour set as a reward from the premium track, themed around Path of Exile's first ever Pinnacle Boss - the Shaper. Check out some concept art for this set in today's news post!\n<a href=\"https://www.pathofexile.com/forum/view-thread/3794728\">Read More.</a>",
+    "image": "images/poe-logo.png",
+    "subheading": "Path of Exile",
+    "game_icon": "",
+    "game": "pathofexile",
+    "source": "poe"
   }
 ]
