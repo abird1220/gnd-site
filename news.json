@@ -1,10 +1,32 @@
 [
   {
+    "title": "Check out gameplay changes, map updates, and more in the latest PTR patch—now available for playtesting",
+    "url": "https://news.blizzard.com/en-us/article/24232472/check-out-gameplay-changes-map-updates-and-more-in-the-latest-ptr-patchnow-available-for-playtesting",
+    "date": "2025-09-02T17:03:00Z",
+    "summary": "Our next Heroes of the Storm patch has just hit the Public Test Realm and will be available for playtesting.",
+    "image": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt4bcdfa224377a611/68b21c832066f1044a0f7de8/Launcher-Social_1920x1080.png",
+    "subheading": "Heroes of the Storm",
+    "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt338ef9c751599624/5d48a37e0927f67fc054705f/heroes-of-the-storm.svg",
+    "game": "Heroes of the Storm",
+    "source": "blizzard"
+  },
+  {
+    "title": "Diablo Immortal Bug Fixes and Patch Notes for All Platforms",
+    "url": "https://news.blizzard.com/en-us/article/24166781/diablo-immortal-bug-fixes-and-patch-notes-for-all-platforms",
+    "date": "2025-09-02T17:00:00Z",
+    "summary": "We will continually update this blog with all bug fixes and patches the team implements for Diablo Immortal on all platforms.",
+    "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/vk/VK6TL5H3CQ131734397130066.jpg",
+    "subheading": "Diablo Immortal",
+    "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt989ffb415ea874fa/6081aad335bb4d0cbd9c064b/D_Immortal_Icon.svg",
+    "game": "Diablo Immortal",
+    "source": "blizzard"
+  },
+  {
     "title": "33.4 Patch Notes",
     "url": "https://news.blizzard.com/en-us/article/24229030/33-4-patch-notes",
     "date": "2025-09-02T16:00:00Z",
     "summary": "The Day of Rebirth Mini-Set, new in-game events, and more await in Patch 33.4!",
-    "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/3o/3OWJ6LSTFU1F1756318949260.jpg",
+    "image": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt37ca8f8224f45da4/68b0707a37e8e1340641a411/HS_33p4_Patch_Notes_BattleNet_App_CrossPromoStatic_1920x1080_SW01.jpg",
     "subheading": "Hearthstone",
     "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt05905fb295358316/5d48a37efbf0e17fc6dafd3c/hearthstone.svg",
     "game": "Hearthstone",
@@ -118,17 +140,6 @@
     "subheading": "World of Warcraft",
     "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt637a995645d7e161/5d48a388a58fc57f3dafd9f1/world-of-warcraft.svg",
     "game": "World of Warcraft",
-    "source": "blizzard"
-  },
-  {
-    "title": "Diablo Immortal Bug Fixes and Patch Notes for All Platforms",
-    "url": "https://news.blizzard.com/en-us/article/24166781/diablo-immortal-bug-fixes-and-patch-notes-for-all-platforms",
-    "date": "2025-08-26T17:00:00Z",
-    "summary": "We will continually update this blog with all bug fixes and patches the team implements for Diablo Immortal on all platforms.",
-    "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/vk/VK6TL5H3CQ131734397130066.jpg",
-    "subheading": "Diablo Immortal",
-    "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt989ffb415ea874fa/6081aad335bb4d0cbd9c064b/D_Immortal_Icon.svg",
-    "game": "Diablo Immortal",
     "source": "blizzard"
   },
   {
@@ -338,17 +349,6 @@
     "subheading": "World of Warcraft",
     "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt637a995645d7e161/5d48a388a58fc57f3dafd9f1/world-of-warcraft.svg",
     "game": "World of Warcraft",
-    "source": "blizzard"
-  },
-  {
-    "title": "Weekly Recall: 2 Perks 2 Furious",
-    "url": "https://news.blizzard.com/en-us/article/24226732/weekly-recall-2-perks-2-furious",
-    "date": "2025-08-15T16:00:00Z",
-    "summary": "Season 18 brings a major Perks update, and associate hero designer Scott Kennedy is here to walk you through the process of inventing and improving upon Overwatch’s newest core system.",
-    "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/nd/NDQCWVHV57SK1754942739719.png",
-    "subheading": "Overwatch 2",
-    "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt648969725f01df34/622a3969f2c2644f956a8934/Overwatch2.svg",
-    "game": "Overwatch 2",
     "source": "blizzard"
   },
   {
