@@ -44,17 +44,6 @@
     "source": "blizzard"
   },
   {
-    "title": "Join our next Developer Update Livestream",
-    "url": "https://news.blizzard.com/en-us/article/24226700/join-our-next-developer-update-livestream",
-    "date": "2025-09-09T17:00:00Z",
-    "summary": "Tune in to our next Developer Update Stream, which will cover Season of Infernal Chaos, and earn the Fusillader’s Arc Twitch Drop.",
-    "image": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/bltcb32c61a06991239/68bf5bdd42e307dfbf293138/s10_dev_livestream_blog_1920x1080.png",
-    "subheading": "Diablo IV",
-    "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt95aebf4d119210f5/5e543f7e8dc1e51c53168b7a/games-d4-colored.svg",
-    "game": "Diablo IV",
-    "source": "blizzard"
-  },
-  {
     "title": "Diablo Immortal Bug Fixes and Patch Notes for All Platforms",
     "url": "https://news.blizzard.com/en-us/article/24166781/diablo-immortal-bug-fixes-and-patch-notes-for-all-platforms",
     "date": "2025-09-09T17:00:00Z",
@@ -63,6 +52,17 @@
     "subheading": "Diablo Immortal",
     "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt989ffb415ea874fa/6081aad335bb4d0cbd9c064b/D_Immortal_Icon.svg",
     "game": "Diablo Immortal",
+    "source": "blizzard"
+  },
+  {
+    "title": "Join our next Developer Update Livestream",
+    "url": "https://news.blizzard.com/en-us/article/24226700/join-our-next-developer-update-livestream",
+    "date": "2025-09-09T17:00:00Z",
+    "summary": "Tune in to our next Developer Update Stream, which will cover Season of Infernal Chaos, and earn the Fusillader’s Arc Twitch Drop.",
+    "image": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/bltcb32c61a06991239/68bf5bdd42e307dfbf293138/s10_dev_livestream_blog_1920x1080.png",
+    "subheading": "Diablo IV",
+    "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt95aebf4d119210f5/5e543f7e8dc1e51c53168b7a/games-d4-colored.svg",
+    "game": "Diablo IV",
     "source": "blizzard"
   },
   {
