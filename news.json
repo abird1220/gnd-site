@@ -1,5 +1,16 @@
 [
   {
+    "title": "Ready Your Appetite for the Flesh Harvest",
+    "url": "https://news.blizzard.com/en-us/article/24226325/ready-your-appetite-for-the-flesh-harvest",
+    "date": "2025-09-19T13:00:00Z",
+    "summary": "Preview the Flesh Harvest major update, featuring a new Main Quest, full release of the Sharval Wilds Zone, and more.",
+    "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/t7/T73B9PVQ8KQJ1758062564210.jpg",
+    "subheading": "Diablo Immortal",
+    "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt989ffb415ea874fa/6081aad335bb4d0cbd9c064b/D_Immortal_Icon.svg",
+    "game": "Diablo Immortal",
+    "source": "blizzard"
+  },
+  {
     "title": "WoW Classic Anniversary Edition: Naxxramas Casts its Shadow October 2",
     "url": "https://news.blizzard.com/en-us/article/24229247/wow-classic-anniversary-edition-naxxramas-casts-its-shadow-october-2",
     "date": "2025-09-18T17:00:00Z",
@@ -88,17 +99,6 @@
     "source": "blizzard"
   },
   {
-    "title": "Keep the Flow Going in Season 18 Midcycle",
-    "url": "https://news.blizzard.com/en-us/article/24234069/keep-the-flow-going-in-season-18-midcycle",
-    "date": "2025-09-16T16:00:00Z",
-    "summary": "Overwatch 2 brings Tracer to Stadium, celebrates Anniversary 2025, and stacks loot with nonstop style in the midseason update!",
-    "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/ur/URV6N7LG30AY1758038949052.png",
-    "subheading": "Overwatch 2",
-    "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt648969725f01df34/622a3969f2c2644f956a8934/Overwatch2.svg",
-    "game": "Overwatch 2",
-    "source": "blizzard"
-  },
-  {
     "title": "Black Ops 7 Zombies: Meet the Expanded Team",
     "url": "https://news.blizzard.com/en-us/article/24223665/black-ops-7-zombies-meet-the-expanded-team",
     "date": "2025-09-16T16:00:00Z",
@@ -118,6 +118,17 @@
     "subheading": "Call of Duty",
     "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt317f15ba7969c454/64c9a67920099ccbc19b2f1f/callofduty.svg",
     "game": "Call of Duty",
+    "source": "blizzard"
+  },
+  {
+    "title": "Keep the Flow Going in Season 18 Midcycle",
+    "url": "https://news.blizzard.com/en-us/article/24234069/keep-the-flow-going-in-season-18-midcycle",
+    "date": "2025-09-16T16:00:00Z",
+    "summary": "Overwatch 2 brings Tracer to Stadium, celebrates Anniversary 2025, and stacks loot with nonstop style in the midseason update!",
+    "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/ur/URV6N7LG30AY1758038949052.png",
+    "subheading": "Overwatch 2",
+    "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt648969725f01df34/622a3969f2c2644f956a8934/Overwatch2.svg",
+    "game": "Overwatch 2",
     "source": "blizzard"
   },
   {
@@ -187,17 +198,6 @@
     "source": "poe"
   },
   {
-    "title": "Diablo Immortal Bug Fixes and Patch Notes for All Platforms",
-    "url": "https://news.blizzard.com/en-us/article/24166781/diablo-immortal-bug-fixes-and-patch-notes-for-all-platforms",
-    "date": "2025-09-09T17:00:00Z",
-    "summary": "We will continually update this blog with all bug fixes and patches the team implements for Diablo Immortal on all platforms.",
-    "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/vk/VK6TL5H3CQ131734397130066.jpg",
-    "subheading": "Diablo Immortal",
-    "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt989ffb415ea874fa/6081aad335bb4d0cbd9c064b/D_Immortal_Icon.svg",
-    "game": "Diablo Immortal",
-    "source": "blizzard"
-  },
-  {
     "title": "Join our next Developer Update Livestream",
     "url": "https://news.blizzard.com/en-us/article/24226700/join-our-next-developer-update-livestream",
     "date": "2025-09-09T17:00:00Z",
@@ -206,6 +206,17 @@
     "subheading": "Diablo IV",
     "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt95aebf4d119210f5/5e543f7e8dc1e51c53168b7a/games-d4-colored.svg",
     "game": "Diablo IV",
+    "source": "blizzard"
+  },
+  {
+    "title": "Diablo Immortal Bug Fixes and Patch Notes for All Platforms",
+    "url": "https://news.blizzard.com/en-us/article/24166781/diablo-immortal-bug-fixes-and-patch-notes-for-all-platforms",
+    "date": "2025-09-09T17:00:00Z",
+    "summary": "We will continually update this blog with all bug fixes and patches the team implements for Diablo Immortal on all platforms.",
+    "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/vk/VK6TL5H3CQ131734397130066.jpg",
+    "subheading": "Diablo Immortal",
+    "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt989ffb415ea874fa/6081aad335bb4d0cbd9c064b/D_Immortal_Icon.svg",
+    "game": "Diablo Immortal",
     "source": "blizzard"
   },
   {
@@ -294,17 +305,6 @@
     "subheading": "Sea of Thieves",
     "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/bltb17dca7ccf086b32/67fd275977067f46c5bb4dc9/game_icon_scorpio.svg",
     "game": "Sea of Thieves",
-    "source": "blizzard"
-  },
-  {
-    "title": "Mists of Pandaria Classic: Landfall Arrives September 23",
-    "url": "https://news.blizzard.com/en-us/article/24229242/mists-of-pandaria-classic-landfall-arrives-september-23",
-    "date": "2025-09-03T17:00:00Z",
-    "summary": "The first major content update for Mists of Pandaria Classic, Landfall, launches the week of September 23. It brings the Horde and Alliance into open conflict on the shores of Krasarang Wilds, offers an invitation from Wrathion to pursue Legendary items, opens the Brawler's Guild for players seeking challenging fights and prestige, and introduces even more exciting content!",
-    "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/o1/O1F9XFK4DFLL1756506680353.png",
-    "subheading": "World of Warcraft",
-    "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt637a995645d7e161/5d48a388a58fc57f3dafd9f1/world-of-warcraft.svg",
-    "game": "World of Warcraft",
     "source": "blizzard"
   },
   {
