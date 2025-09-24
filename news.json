@@ -110,17 +110,6 @@
     "source": "pokemongo"
   },
   {
-    "title": "WoW Weekly: Legion Remix, Naxxramas Looms in WoW Classic Anniversary Edition, and More!",
-    "url": "https://news.blizzard.com/en-us/article/24229248/wow-weekly-legion-remix-naxxramas-looms-in-wow-classic-anniversary-edition-and-more",
-    "date": "2025-09-19T17:00:00Z",
-    "summary": "Adventure, loot, and style await—dive into game-changing updates, epic raids, legendary gear, and eye-catching transmog sets! Every week brings thrilling new adventures and loot, so rally your allies and forge your legend in Azeroth.",
-    "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/zv/ZV27Y5YA6SIS1758297014952.png",
-    "subheading": "World of Warcraft",
-    "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt637a995645d7e161/5d48a388a58fc57f3dafd9f1/world-of-warcraft.svg",
-    "game": "World of Warcraft",
-    "source": "blizzard"
-  },
-  {
     "title": "Back to School! Inside Blizzard’s Internship Program – Part 1",
     "url": "https://news.blizzard.com/en-us/article/24230695/back-to-school-inside-blizzards-internship-program-part-1",
     "date": "2025-09-19T17:00:00Z",
@@ -129,6 +118,17 @@
     "subheading": "Blizzard",
     "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/bltbd6b3637d77c60f0/5da8a74e9147457fdde5f6d3/blizzard.svg",
     "game": "Blizzard",
+    "source": "blizzard"
+  },
+  {
+    "title": "WoW Weekly: Legion Remix, Naxxramas Looms in WoW Classic Anniversary Edition, and More!",
+    "url": "https://news.blizzard.com/en-us/article/24229248/wow-weekly-legion-remix-naxxramas-looms-in-wow-classic-anniversary-edition-and-more",
+    "date": "2025-09-19T17:00:00Z",
+    "summary": "Adventure, loot, and style await—dive into game-changing updates, epic raids, legendary gear, and eye-catching transmog sets! Every week brings thrilling new adventures and loot, so rally your allies and forge your legend in Azeroth.",
+    "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/zv/ZV27Y5YA6SIS1758297014952.png",
+    "subheading": "World of Warcraft",
+    "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt637a995645d7e161/5d48a388a58fc57f3dafd9f1/world-of-warcraft.svg",
+    "game": "World of Warcraft",
     "source": "blizzard"
   },
   {
@@ -242,17 +242,6 @@
     "source": "blizzard"
   },
   {
-    "title": "Keep the Flow Going in Season 18 Midcycle",
-    "url": "https://news.blizzard.com/en-us/article/24234069/keep-the-flow-going-in-season-18-midcycle",
-    "date": "2025-09-16T16:00:00Z",
-    "summary": "Overwatch 2 brings Tracer to Stadium, celebrates Anniversary 2025, and stacks loot with nonstop style in the midseason update!",
-    "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/ur/URV6N7LG30AY1758038949052.png",
-    "subheading": "Overwatch 2",
-    "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt648969725f01df34/622a3969f2c2644f956a8934/Overwatch2.svg",
-    "game": "Overwatch 2",
-    "source": "blizzard"
-  },
-  {
     "title": "Black Ops 7: Vault Edition Operators Update",
     "url": "https://news.blizzard.com/en-us/article/24230697/black-ops-7-vault-edition-operators-update",
     "date": "2025-09-16T16:00:00Z",
@@ -272,6 +261,17 @@
     "subheading": "Call of Duty",
     "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt317f15ba7969c454/64c9a67920099ccbc19b2f1f/callofduty.svg",
     "game": "Call of Duty",
+    "source": "blizzard"
+  },
+  {
+    "title": "Keep the Flow Going in Season 18 Midcycle",
+    "url": "https://news.blizzard.com/en-us/article/24234069/keep-the-flow-going-in-season-18-midcycle",
+    "date": "2025-09-16T16:00:00Z",
+    "summary": "Overwatch 2 brings Tracer to Stadium, celebrates Anniversary 2025, and stacks loot with nonstop style in the midseason update!",
+    "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/ur/URV6N7LG30AY1758038949052.png",
+    "subheading": "Overwatch 2",
+    "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt648969725f01df34/622a3969f2c2644f956a8934/Overwatch2.svg",
+    "game": "Overwatch 2",
     "source": "blizzard"
   },
   {
