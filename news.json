@@ -1,5 +1,38 @@
 [
   {
+    "title": "Diablo II: Resurrected Ladder Season 12 Coming Soon",
+    "url": "https://news.blizzard.com/en-us/article/24226703/diablo-ii-resurrected-ladder-season-12-coming-soon",
+    "date": "2025-09-25T17:01:12Z",
+    "summary": "Ladder Season 12 begins on October 3! Muster the might to liberate Sanctuary’s denizens from sinister influences as you race to Level 99.",
+    "image": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt7f4f544201f0a3e7/68d56c17fc59ec6fc0033f6d/DIA_D2R_Ladder_S8_BNET_ArtOnly_1920x1080.png",
+    "subheading": "Diablo II: Resurrected",
+    "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/bltf882f8af9e033fe4/60300f72c6713d4e7a4d4b59/diablo2.svg",
+    "game": "Diablo II: Resurrected",
+    "source": "blizzard"
+  },
+  {
+    "title": "Embody the Sector’s Finest with StarCraft x Diablo IV",
+    "url": "https://news.blizzard.com/en-us/article/24224371/embody-the-sectors-finest-with-starcraft-x-diablo-iv",
+    "date": "2025-09-25T17:00:00Z",
+    "summary": "Faster than a Zerg rush, StarCraft storms into Sanctuary for a limited time.",
+    "image": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt269c9094d8bbb9cc/68d56a3b4901774e4b10ae2e/DIA_DIV_PLANET_KeyArt_Final_1920x1080_LL01.png",
+    "subheading": "Diablo IV",
+    "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt95aebf4d119210f5/5e543f7e8dc1e51c53168b7a/games-d4-colored.svg",
+    "game": "Diablo IV",
+    "source": "blizzard"
+  },
+  {
+    "title": "Twitch Drop: Get Lil’ Coalee the Baby Pit Lord Pet October 1!",
+    "url": "https://news.blizzard.com/en-us/article/24225602/twitch-drop-get-lil-coalee-the-baby-pit-lord-pet-october-1",
+    "date": "2025-09-25T17:00:00Z",
+    "summary": "Watch any World of Warcraft stream on Twitch.tv from October 1 at 9:00 am PDT until October 29 at 9:00 am PDT to claim Lil’ Coalee the Baby Pit Lord pet.",
+    "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/h2/H2L6DMGZ1L531758047064753.png",
+    "subheading": "World of Warcraft",
+    "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt637a995645d7e161/5d48a388a58fc57f3dafd9f1/world-of-warcraft.svg",
+    "game": "World of Warcraft",
+    "source": "blizzard"
+  },
+  {
     "title": "Hotfixes: September 24, 2025",
     "url": "https://news.blizzard.com/en-us/article/24223774/hotfixes-september-24-2025",
     "date": "2025-09-25T00:01:50Z",
@@ -121,17 +154,6 @@
     "source": "pokemongo"
   },
   {
-    "title": "WoW Weekly: Legion Remix, Naxxramas Looms in WoW Classic Anniversary Edition, and More!",
-    "url": "https://news.blizzard.com/en-us/article/24229248/wow-weekly-legion-remix-naxxramas-looms-in-wow-classic-anniversary-edition-and-more",
-    "date": "2025-09-19T17:00:00Z",
-    "summary": "Adventure, loot, and style await—dive into game-changing updates, epic raids, legendary gear, and eye-catching transmog sets! Every week brings thrilling new adventures and loot, so rally your allies and forge your legend in Azeroth.",
-    "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/zv/ZV27Y5YA6SIS1758297014952.png",
-    "subheading": "World of Warcraft",
-    "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt637a995645d7e161/5d48a388a58fc57f3dafd9f1/world-of-warcraft.svg",
-    "game": "World of Warcraft",
-    "source": "blizzard"
-  },
-  {
     "title": "Back to School! Inside Blizzard’s Internship Program – Part 1",
     "url": "https://news.blizzard.com/en-us/article/24230695/back-to-school-inside-blizzards-internship-program-part-1",
     "date": "2025-09-19T17:00:00Z",
@@ -140,6 +162,17 @@
     "subheading": "Blizzard",
     "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/bltbd6b3637d77c60f0/5da8a74e9147457fdde5f6d3/blizzard.svg",
     "game": "Blizzard",
+    "source": "blizzard"
+  },
+  {
+    "title": "WoW Weekly: Legion Remix, Naxxramas Looms in WoW Classic Anniversary Edition, and More!",
+    "url": "https://news.blizzard.com/en-us/article/24229248/wow-weekly-legion-remix-naxxramas-looms-in-wow-classic-anniversary-edition-and-more",
+    "date": "2025-09-19T17:00:00Z",
+    "summary": "Adventure, loot, and style await—dive into game-changing updates, epic raids, legendary gear, and eye-catching transmog sets! Every week brings thrilling new adventures and loot, so rally your allies and forge your legend in Azeroth.",
+    "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/zv/ZV27Y5YA6SIS1758297014952.png",
+    "subheading": "World of Warcraft",
+    "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt637a995645d7e161/5d48a388a58fc57f3dafd9f1/world-of-warcraft.svg",
+    "game": "World of Warcraft",
     "source": "blizzard"
   },
   {
@@ -253,17 +286,6 @@
     "source": "blizzard"
   },
   {
-    "title": "Keep the Flow Going in Season 18 Midcycle",
-    "url": "https://news.blizzard.com/en-us/article/24234069/keep-the-flow-going-in-season-18-midcycle",
-    "date": "2025-09-16T16:00:00Z",
-    "summary": "Overwatch 2 brings Tracer to Stadium, celebrates Anniversary 2025, and stacks loot with nonstop style in the midseason update!",
-    "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/ur/URV6N7LG30AY1758038949052.png",
-    "subheading": "Overwatch 2",
-    "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt648969725f01df34/622a3969f2c2644f956a8934/Overwatch2.svg",
-    "game": "Overwatch 2",
-    "source": "blizzard"
-  },
-  {
     "title": "Black Ops 7: Vault Edition Operators Update",
     "url": "https://news.blizzard.com/en-us/article/24230697/black-ops-7-vault-edition-operators-update",
     "date": "2025-09-16T16:00:00Z",
@@ -272,28 +294,6 @@
     "subheading": "Call of Duty",
     "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt317f15ba7969c454/64c9a67920099ccbc19b2f1f/callofduty.svg",
     "game": "Call of Duty",
-    "source": "blizzard"
-  },
-  {
-    "title": "Black Ops 7 Zombies: Meet the Expanded Team",
-    "url": "https://news.blizzard.com/en-us/article/24223665/black-ops-7-zombies-meet-the-expanded-team",
-    "date": "2025-09-16T16:00:00Z",
-    "summary": "A battle atop the headquarters of Project Janus turns into a terrifying dimensional dive into the Dark Aether.",
-    "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/4q/4Q7F5CPR14ZR1758041054289.jpg",
-    "subheading": "Call of Duty",
-    "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt317f15ba7969c454/64c9a67920099ccbc19b2f1f/callofduty.svg",
-    "game": "Call of Duty",
-    "source": "blizzard"
-  },
-  {
-    "title": "The Hearthstone International Showmatch Is Coming!",
-    "url": "https://news.blizzard.com/en-us/article/24226734/the-hearthstone-international-showmatch-is-coming",
-    "date": "2025-09-16T15:00:00Z",
-    "summary": "Check out all the details on the upcoming Showmatch pitting two international teams against each other!",
-    "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/y3/Y3KLMK8GE3XR1757714777485.png",
-    "subheading": "Hearthstone",
-    "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt05905fb295358316/5d48a37efbf0e17fc6dafd3c/hearthstone.svg",
-    "game": "Hearthstone",
     "source": "blizzard"
   },
   {
