@@ -1,5 +1,38 @@
 [
   {
+    "title": "Launch into Turbo-Boost October 21",
+    "url": "https://news.blizzard.com/en-us/article/24230698/launch-into-turbo-boost-october-21",
+    "date": "2025-09-26T17:00:00Z",
+    "summary": "We’re turning things up a notch during The War Within Season 3 with increased rewards and improvements to help you gear up your Warband with Turbo-Boost.",
+    "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/ht/HTR3D7ST6VJ41758834644153.png",
+    "subheading": "World of Warcraft",
+    "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt637a995645d7e161/5d48a388a58fc57f3dafd9f1/world-of-warcraft.svg",
+    "game": "World of Warcraft",
+    "source": "blizzard"
+  },
+  {
+    "title": "WoW Weekly: Midnight Deep Dive Incoming, Twitch Drop, Turbo-Boost on the Horizon, and More!",
+    "url": "https://news.blizzard.com/en-us/article/24235742/wow-weekly-midnight-deep-dive-incoming-twitch-drop-turbo-boost-on-the-horizon-and-more",
+    "date": "2025-09-26T17:00:00Z",
+    "summary": "Dive into game-changing updates, get your hands on an adorable pet, partake in Brewfest, get eye-catching mounts, and more! Every week brings thrilling new adventures and loot, so rally your allies and forge your legend in Azeroth.",
+    "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/7q/7QKET018U4GG1758847994439.png",
+    "subheading": "World of Warcraft",
+    "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt637a995645d7e161/5d48a388a58fc57f3dafd9f1/world-of-warcraft.svg",
+    "game": "World of Warcraft",
+    "source": "blizzard"
+  },
+  {
+    "title": "Weekly Recall: Customizing Stadium",
+    "url": "https://news.blizzard.com/en-us/article/24226737/weekly-recall-customizing-stadium",
+    "date": "2025-09-26T16:00:00Z",
+    "summary": "If you’ve ever wanted to make Stadium your own, the new Advanced Custom Games options are sure to spark great ideas. Join the Stadium team as they walk you through the system and their own penchant for creativity.",
+    "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/vg/VGC1GG50SH0O1758742838968.png",
+    "subheading": "Overwatch 2",
+    "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt648969725f01df34/622a3969f2c2644f956a8934/Overwatch2.svg",
+    "game": "Overwatch 2",
+    "source": "blizzard"
+  },
+  {
     "title": "The Third Edict Mystery Box is Now Available!",
     "url": "https://www.pathofexile.com/forum/view-thread/3860198",
     "date": "2025-09-26T01:58:26Z",
@@ -187,17 +220,6 @@
     "source": "pokemongo"
   },
   {
-    "title": "WoW Weekly: Legion Remix, Naxxramas Looms in WoW Classic Anniversary Edition, and More!",
-    "url": "https://news.blizzard.com/en-us/article/24229248/wow-weekly-legion-remix-naxxramas-looms-in-wow-classic-anniversary-edition-and-more",
-    "date": "2025-09-19T17:00:00Z",
-    "summary": "Adventure, loot, and style await—dive into game-changing updates, epic raids, legendary gear, and eye-catching transmog sets! Every week brings thrilling new adventures and loot, so rally your allies and forge your legend in Azeroth.",
-    "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/zv/ZV27Y5YA6SIS1758297014952.png",
-    "subheading": "World of Warcraft",
-    "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt637a995645d7e161/5d48a388a58fc57f3dafd9f1/world-of-warcraft.svg",
-    "game": "World of Warcraft",
-    "source": "blizzard"
-  },
-  {
     "title": "Back to School! Inside Blizzard’s Internship Program – Part 1",
     "url": "https://news.blizzard.com/en-us/article/24230695/back-to-school-inside-blizzards-internship-program-part-1",
     "date": "2025-09-19T17:00:00Z",
@@ -206,6 +228,17 @@
     "subheading": "Blizzard",
     "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/bltbd6b3637d77c60f0/5da8a74e9147457fdde5f6d3/blizzard.svg",
     "game": "Blizzard",
+    "source": "blizzard"
+  },
+  {
+    "title": "WoW Weekly: Legion Remix, Naxxramas Looms in WoW Classic Anniversary Edition, and More!",
+    "url": "https://news.blizzard.com/en-us/article/24229248/wow-weekly-legion-remix-naxxramas-looms-in-wow-classic-anniversary-edition-and-more",
+    "date": "2025-09-19T17:00:00Z",
+    "summary": "Adventure, loot, and style await—dive into game-changing updates, epic raids, legendary gear, and eye-catching transmog sets! Every week brings thrilling new adventures and loot, so rally your allies and forge your legend in Azeroth.",
+    "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/zv/ZV27Y5YA6SIS1758297014952.png",
+    "subheading": "World of Warcraft",
+    "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt637a995645d7e161/5d48a388a58fc57f3dafd9f1/world-of-warcraft.svg",
+    "game": "World of Warcraft",
     "source": "blizzard"
   },
   {
@@ -264,17 +297,6 @@
     "source": "blizzard"
   },
   {
-    "title": "33.4.2 Patch Notes",
-    "url": "https://news.blizzard.com/en-us/article/24223779/33-4-2-patch-notes",
-    "date": "2025-09-17T15:50:00Z",
-    "summary": "Check out the latest updates for Hearthstone and Battlegrounds, along with a few bug fixes.",
-    "image": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blte4d01dd255c95e24/68c9e27fa475c6aeaf07e163/image_(11).png",
-    "subheading": "Hearthstone",
-    "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt05905fb295358316/5d48a37efbf0e17fc6dafd3c/hearthstone.svg",
-    "game": "Hearthstone",
-    "source": "blizzard"
-  },
-  {
     "title": "Pokémon GO City Safari Valencia and Amsterdam: Venues and Activities",
     "url": "https://pokemongo.com/en/post/valencia-amsterdam-details/",
     "date": "2025-09-17T00:00:00Z",
@@ -284,28 +306,6 @@
     "game_icon": "",
     "game": "pokemongo",
     "source": "pokemongo"
-  },
-  {
-    "title": "Diablo IV Patch Notes",
-    "url": "https://news.blizzard.com/en-us/article/24222917/diablo-iv-patch-notes",
-    "date": "2025-09-16T18:44:05Z",
-    "summary": "We will continually update this article with all patches the development team implements for Diablo IV.",
-    "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/l3/L3LPQKVMFYZL1723657973250.png",
-    "subheading": "Diablo IV",
-    "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt95aebf4d119210f5/5e543f7e8dc1e51c53168b7a/games-d4-colored.svg",
-    "game": "Diablo IV",
-    "source": "blizzard"
-  },
-  {
-    "title": "Rally Against Hell in Season of Infernal Chaos",
-    "url": "https://news.blizzard.com/en-us/article/24226702/rally-against-hell-in-season-of-infernal-chaos",
-    "date": "2025-09-16T17:00:00Z",
-    "summary": "Earn powerful Chaos Armor, wield fearsome Chaos Perks, and fight in a revamped Infernal Hordes in Season of Infernal Chaos.",
-    "image": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt173fd74740970736/68c83e91e6f87add4c27a66c/DIA_DIV_S10_Key_Art_1920x1080_NoText.png",
-    "subheading": "Diablo IV",
-    "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt95aebf4d119210f5/5e543f7e8dc1e51c53168b7a/games-d4-colored.svg",
-    "game": "Diablo IV",
-    "source": "blizzard"
   },
   {
     "title": "Weekend Stash Tab Sale",
