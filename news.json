@@ -220,17 +220,6 @@
     "source": "pokemongo"
   },
   {
-    "title": "WoW Weekly: Legion Remix, Naxxramas Looms in WoW Classic Anniversary Edition, and More!",
-    "url": "https://news.blizzard.com/en-us/article/24229248/wow-weekly-legion-remix-naxxramas-looms-in-wow-classic-anniversary-edition-and-more",
-    "date": "2025-09-19T17:00:00Z",
-    "summary": "Adventure, loot, and style await—dive into game-changing updates, epic raids, legendary gear, and eye-catching transmog sets! Every week brings thrilling new adventures and loot, so rally your allies and forge your legend in Azeroth.",
-    "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/zv/ZV27Y5YA6SIS1758297014952.png",
-    "subheading": "World of Warcraft",
-    "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt637a995645d7e161/5d48a388a58fc57f3dafd9f1/world-of-warcraft.svg",
-    "game": "World of Warcraft",
-    "source": "blizzard"
-  },
-  {
     "title": "Back to School! Inside Blizzard’s Internship Program – Part 1",
     "url": "https://news.blizzard.com/en-us/article/24230695/back-to-school-inside-blizzards-internship-program-part-1",
     "date": "2025-09-19T17:00:00Z",
@@ -239,6 +228,17 @@
     "subheading": "Blizzard",
     "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/bltbd6b3637d77c60f0/5da8a74e9147457fdde5f6d3/blizzard.svg",
     "game": "Blizzard",
+    "source": "blizzard"
+  },
+  {
+    "title": "WoW Weekly: Legion Remix, Naxxramas Looms in WoW Classic Anniversary Edition, and More!",
+    "url": "https://news.blizzard.com/en-us/article/24229248/wow-weekly-legion-remix-naxxramas-looms-in-wow-classic-anniversary-edition-and-more",
+    "date": "2025-09-19T17:00:00Z",
+    "summary": "Adventure, loot, and style await—dive into game-changing updates, epic raids, legendary gear, and eye-catching transmog sets! Every week brings thrilling new adventures and loot, so rally your allies and forge your legend in Azeroth.",
+    "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/zv/ZV27Y5YA6SIS1758297014952.png",
+    "subheading": "World of Warcraft",
+    "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt637a995645d7e161/5d48a388a58fc57f3dafd9f1/world-of-warcraft.svg",
+    "game": "World of Warcraft",
     "source": "blizzard"
   },
   {
@@ -379,17 +379,6 @@
     "date": "2025-08-29T00:00:00Z",
     "summary": "On Sundays from September 7 to November 30, 2025, Trainers will get a pile of trade bonuses, including one additional Special Trade!",
     "image": "https://lh3.googleusercontent.com/mqf6YX8Ic_J4qLaoDiSM1Q43N_mdIotWfZPODwGnDb7GKK9U60XEjm7VdiHjYJdMIKq5y1BgIYRG_z8yvRTgfDe47XdcgdLghrnF2YZWFL8uew=s2400-rj",
-    "subheading": "Pokémon GO",
-    "game_icon": "",
-    "game": "pokemongo",
-    "source": "pokemongo"
-  },
-  {
-    "title": "Celebrate the Kanto region with Mega Evolutions, Pokémon usually found only in certain parts of the world, and Dynamax legendary birds! – Pokémon GO",
-    "url": "https://pokemongo.com/en/post/pokemongo-kanto-celebration-2025/",
-    "date": "2025-08-26T00:00:00Z",
-    "summary": "Tuesday, September 2 at 10:00 a.m. to Sunday, September 7, 2025 at 8:00 p.m. local time",
-    "image": "https://lh3.googleusercontent.com/zuH-ueu-JlZDF1Mg0kEjLaPNVhCErI4ijDYtZ5FgV3k1mDg4TV-w7pGJYPWX4BK3UEInEk-2qY56CKXKiaHHLAJrIg1J0AO_iDG98FkZio5Q=s2400-rj",
     "subheading": "Pokémon GO",
     "game_icon": "",
     "game": "pokemongo",
