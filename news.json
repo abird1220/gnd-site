@@ -1,5 +1,19 @@
 [
   {
+    "title": "Path of Exile: Keepers of the Flame Teasers",
+    "url": "https://www.pathofexile.com/forum/view-thread/3867910",
+    "date": "2025-10-17T18:57:16Z",
+    "summary": "In this post we will compile all the Path of Exile: Keepers of the Flame teasers as they're posted. The most recent will always be at the top.",
+    "image": "images/poe-logo.png",
+    "subheading": "Path of Exile",
+    "game_icon": "",
+    "game": "pathofexile",
+    "source": "poe",
+    "genre": "ARPG",
+    "active_start": "",
+    "active_end": ""
+  },
+  {
     "title": "Diablo IV Patch Notes",
     "url": "https://news.blizzard.com/en-us/article/24222917/diablo-iv-patch-notes",
     "date": "2025-10-17T17:00:00Z",
@@ -984,19 +998,5 @@
     "game_icon": "",
     "game": "pokemongo",
     "source": "pokemongo"
-  },
-  {
-    "title": "Secrets of the Atlas Fan Art Competition",
-    "url": "https://www.pathofexile.com/forum/view-thread/3808679",
-    "date": "2025-07-06T21:57:26Z",
-    "summary": "It’s been a while since we’ve had a fan art competition for community artists, so we’re very excited to bring it back! We're launching a fan art competition themed around the Secrets of the Atlas expansion and everything introduced in it. The prize pool includes Path of Exile merchandise and in-game microtransactions. Find out more in this news post.",
-    "image": "images/poe-logo.png",
-    "subheading": "Path of Exile",
-    "game_icon": "",
-    "game": "pathofexile",
-    "source": "poe",
-    "genre": "ARPG",
-    "active_start": "",
-    "active_end": ""
   }
 ]
