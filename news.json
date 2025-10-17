@@ -1,5 +1,49 @@
 [
   {
+    "title": "Diablo IV Patch Notes",
+    "url": "https://news.blizzard.com/en-us/article/24222917/diablo-iv-patch-notes",
+    "date": "2025-10-17T17:00:00Z",
+    "summary": "We will continually update this article with all patches the development team implements for Diablo IV.",
+    "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/l3/L3LPQKVMFYZL1723657973250.png",
+    "subheading": "Diablo IV",
+    "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt95aebf4d119210f5/5e543f7e8dc1e51c53168b7a/games-d4-colored.svg",
+    "game": "Diablo IV",
+    "source": "blizzard"
+  },
+  {
+    "title": "WoW Weekly: Housing on the PTR, Hallow's End Begins, and More!",
+    "url": "https://news.blizzard.com/en-us/article/24243439/wow-weekly-housing-on-the-ptr-hallow-s-end-begins-and-more",
+    "date": "2025-10-17T17:00:00Z",
+    "summary": "Check out Housing Early Access on the PTR, haul in ghoulish delights and take on the Headless Horseman in the Hollow's End in-game holiday event, and more! Every week brings thrilling new adventures and loot, so rally your allies and forge your legend in Azeroth.",
+    "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/0h/0HNPIMU2BQVN1760649074432.png",
+    "subheading": "World of Warcraft",
+    "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt637a995645d7e161/5d48a388a58fc57f3dafd9f1/world-of-warcraft.svg",
+    "game": "World of Warcraft",
+    "source": "blizzard"
+  },
+  {
+    "title": "Haul in Ghoulish Delights During Hallow’s End",
+    "url": "https://news.blizzard.com/en-us/article/24242427/haul-in-ghoulish-delights-during-hallows-end",
+    "date": "2025-10-17T16:58:00Z",
+    "summary": "Hallow’s End celebrates the break of the Forsaken from the Scourge. Fun and mischief reign as the Innkeepers of Azeroth dole out treats and tricks for those seeking to partake in the festivities.",
+    "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/sj/SJ9M6WYWEIQJ1760483144023.png",
+    "subheading": "World of Warcraft",
+    "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt637a995645d7e161/5d48a388a58fc57f3dafd9f1/world-of-warcraft.svg",
+    "game": "World of Warcraft",
+    "source": "blizzard"
+  },
+  {
+    "title": "Weekly Recall: Go Go Gadgets!",
+    "url": "https://news.blizzard.com/en-us/article/24239494/weekly-recall-go-go-gadgets",
+    "date": "2025-10-17T16:00:00Z",
+    "summary": "Stadium systems designer Larry Wu is here to introduce Gadgets, active items that aim to even out your early rounds and add devastating power to your late-game Builds. Learn about the production process, the value of trial and error, and some tips to maximize your Gadget investments.",
+    "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/4c/4CSYRU0B414F1760641193825.png",
+    "subheading": "Overwatch 2",
+    "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt648969725f01df34/622a3969f2c2644f956a8934/Overwatch2.svg",
+    "game": "Overwatch 2",
+    "source": "blizzard"
+  },
+  {
     "title": "Hotfixes: October 16, 2025",
     "url": "https://news.blizzard.com/en-us/article/24240525/hotfixes-october-16-2025",
     "date": "2025-10-16T22:32:53Z",
@@ -188,22 +232,22 @@
     "active_end": ""
   },
   {
-    "title": "Spark the Dark Flame of Envy with the Amethyst Felfire Pack",
-    "url": "https://news.blizzard.com/en-us/article/24240669/spark-the-dark-flame-of-envy-with-the-amethyst-felfire-pack",
+    "title": "Be the Life of the Party, or Drain It, with the Crimson Court Pack",
+    "url": "https://news.blizzard.com/en-us/article/24240667/be-the-life-of-the-party-or-drain-it-with-the-crimson-court-pack",
     "date": "2025-10-09T19:00:00Z",
-    "summary": "Raise fel and walk in the violet vibrance of a void-infused transmog set while you ride high astride your Void-Razed Elekk, with a smoldering Fel Snooter pet in tow! All are available together through January 12, 2026, when you purchase the Amethyst Felfire Pack.",
-    "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/69/69MTPC04I4FR1759864015465.png",
+    "summary": "Slay in sanguine style with this Lana'thel-inspired transmog set and swirling Crimson Cascade mount in the Crimson Court Pack available through January 12, 2026.",
+    "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/bf/BF24SMOIKPIO1759862927853.png",
     "subheading": "World of Warcraft",
     "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt637a995645d7e161/5d48a388a58fc57f3dafd9f1/world-of-warcraft.svg",
     "game": "World of Warcraft",
     "source": "blizzard"
   },
   {
-    "title": "Be the Life of the Party, or Drain It, with the Crimson Court Pack",
-    "url": "https://news.blizzard.com/en-us/article/24240667/be-the-life-of-the-party-or-drain-it-with-the-crimson-court-pack",
+    "title": "Spark the Dark Flame of Envy with the Amethyst Felfire Pack",
+    "url": "https://news.blizzard.com/en-us/article/24240669/spark-the-dark-flame-of-envy-with-the-amethyst-felfire-pack",
     "date": "2025-10-09T19:00:00Z",
-    "summary": "Slay in sanguine style with this Lana'thel-inspired transmog set and swirling Crimson Cascade mount in the Crimson Court Pack available through January 12, 2026.",
-    "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/bf/BF24SMOIKPIO1759862927853.png",
+    "summary": "Raise fel and walk in the violet vibrance of a void-infused transmog set while you ride high astride your Void-Razed Elekk, with a smoldering Fel Snooter pet in tow! All are available together through January 12, 2026, when you purchase the Amethyst Felfire Pack.",
+    "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/69/69MTPC04I4FR1759864015465.png",
     "subheading": "World of Warcraft",
     "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt637a995645d7e161/5d48a388a58fc57f3dafd9f1/world-of-warcraft.svg",
     "game": "World of Warcraft",
@@ -298,39 +342,6 @@
     "source": "blizzard"
   },
   {
-    "title": "Legion Remix Content Update Notes",
-    "url": "https://news.blizzard.com/en-us/article/24229033/legion-remix-content-update-notes",
-    "date": "2025-10-07T22:00:00Z",
-    "summary": "The Legion Remix content update is now live!",
-    "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/eo/EO4Y9V7U6FWX1758747623912.png",
-    "subheading": "World of Warcraft",
-    "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt637a995645d7e161/5d48a388a58fc57f3dafd9f1/world-of-warcraft.svg",
-    "game": "World of Warcraft",
-    "source": "blizzard"
-  },
-  {
-    "title": "[Sale Ended] Save up to 50% on Select Mounts, Transmogs, Toys, and Services!",
-    "url": "https://news.blizzard.com/en-us/article/24240668/sale-ended-save-up-to-50-on-select-mounts-transmogs-toys-and-services",
-    "date": "2025-10-07T18:12:00Z",
-    "summary": "Dive into daring adventures in World of Warcraft® when you make the most of some spooktacular savings through October 15.",
-    "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/wn/WNK8JEG4H7LL1759856403997.png",
-    "subheading": "World of Warcraft",
-    "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt637a995645d7e161/5d48a388a58fc57f3dafd9f1/world-of-warcraft.svg",
-    "game": "World of Warcraft",
-    "source": "blizzard"
-  },
-  {
-    "title": "Spooktacular Savings: Hauntingly good deals have arrived on Battle.net",
-    "url": "https://news.blizzard.com/en-us/article/24239875/spooktacular-savings-hauntingly-good-deals-have-arrived-on-battle-net",
-    "date": "2025-10-07T17:00:00Z",
-    "summary": "Now through October 15, snag eerie-sistible discounts and save on some of your favorite games on Battle.net.",
-    "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/i3/I3UVJH01ZNET1759351699439.webp",
-    "subheading": "Battle.net",
-    "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blta8332c202f63da84/60f74b93ef929764f0bb4e96/nexus-color.svg",
-    "game": "Battle.net",
-    "source": "blizzard"
-  },
-  {
     "title": "Path of Exile 3.27 Announcement and Launch Date",
     "url": "https://www.pathofexile.com/forum/view-thread/3865111",
     "date": "2025-10-06T21:21:25Z",
@@ -343,17 +354,6 @@
     "genre": "ARPG",
     "active_start": "",
     "active_end": ""
-  },
-  {
-    "title": "[Updated 10/6] Get in the Mix with Legion Remix Rewards",
-    "url": "https://news.blizzard.com/en-us/article/24240007/updated-10-6-get-in-the-mix-with-legion-remix-rewards",
-    "date": "2025-10-06T16:59:00Z",
-    "summary": "Legion Remix opens up opportunities to add a variety of new and returning items to your collection along with new Housing decor you can collect and use once Housing goes live in the Midnight expansion. To help you set your sights on the items you want most, we’ve rounded up a complete list of how and where to get them.",
-    "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/nc/NCN308YO3KXH1759381565922.png",
-    "subheading": "World of Warcraft",
-    "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt637a995645d7e161/5d48a388a58fc57f3dafd9f1/world-of-warcraft.svg",
-    "game": "World of Warcraft",
-    "source": "blizzard"
   },
   {
     "title": "Pikachu wearing an Indonesia football jersey is coming back for Golden Goal Time with Pikachu! – Pokémon GO",
