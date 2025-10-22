@@ -1,5 +1,30 @@
 [
   {
+    "title": "Hotfixes: October 21, 2025",
+    "url": "https://news.blizzard.com/en-us/article/24240525/hotfixes-october-21-2025",
+    "date": "2025-10-22T00:40:27Z",
+    "summary": "Here you will find a list of hotfixes that address various issues related to World of Warcraft: The War Within, Mists of Pandaria Classic, Season of Discovery, WoW Classic Era, and Hardcore.",
+    "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/gy/GYJ2HU58PDSP1760044520515.png",
+    "subheading": "World of Warcraft",
+    "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt637a995645d7e161/5d48a388a58fc57f3dafd9f1/world-of-warcraft.svg",
+    "game": "World of Warcraft",
+    "source": "blizzard"
+  },
+  {
+    "title": "The Third Edict Race Event Winners",
+    "url": "https://www.pathofexile.com/forum/view-thread/3868751",
+    "date": "2025-10-22T00:05:56Z",
+    "summary": "After a nail-biting finish in weeks one and two and a trailblazing performance in week three, we're finally able to crown the overall winner, WholeNewSociety! Check our post to see the complete list of race winners.",
+    "image": "images/poe-logo.png",
+    "subheading": "Path of Exile",
+    "game_icon": "",
+    "game": "pathofexile",
+    "source": "poe",
+    "genre": "ARPG",
+    "active_start": "",
+    "active_end": ""
+  },
+  {
     "title": "Turbo Boost is Now Live!",
     "url": "https://news.blizzard.com/en-us/article/24242856/turbo-boost-is-now-live",
     "date": "2025-10-21T22:04:46Z",
@@ -74,17 +99,6 @@
     "subheading": "Hearthstone",
     "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt05905fb295358316/5d48a37efbf0e17fc6dafd3c/hearthstone.svg",
     "game": "Hearthstone",
-    "source": "blizzard"
-  },
-  {
-    "title": "Hotfixes: October 20, 2025",
-    "url": "https://news.blizzard.com/en-us/article/24240525/hotfixes-october-20-2025",
-    "date": "2025-10-21T01:35:54Z",
-    "summary": "Here you will find a list of hotfixes that address various issues related to World of Warcraft: The War Within, Mists of Pandaria Classic, Season of Discovery, WoW Classic Era, and Hardcore.",
-    "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/gy/GYJ2HU58PDSP1760044520515.png",
-    "subheading": "World of Warcraft",
-    "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt637a995645d7e161/5d48a388a58fc57f3dafd9f1/world-of-warcraft.svg",
-    "game": "World of Warcraft",
     "source": "blizzard"
   },
   {
@@ -954,20 +968,6 @@
     "url": "https://www.pathofexile.com/forum/view-thread/3813889",
     "date": "2025-07-15T23:40:50Z",
     "summary": "It's already been one month since the launch of Secrets of the Atlas and there are some pretty neat builds popping up! While these builds may not shake up the meta, they certainly showcase a lot of creativity or in some cases take us down memory lane and revisit old favourites!",
-    "image": "images/poe-logo.png",
-    "subheading": "Path of Exile",
-    "game_icon": "",
-    "game": "pathofexile",
-    "source": "poe",
-    "genre": "ARPG",
-    "active_start": "",
-    "active_end": ""
-  },
-  {
-    "title": "Secrets of the Atlas Concept Art - Supporter Packs",
-    "url": "https://www.pathofexile.com/forum/view-thread/3813286",
-    "date": "2025-07-14T21:25:56Z",
-    "summary": "The launch of Secrets of the Atlas introduced two new series of supporter packs; the Cryptkeeper series and the Phrecian Magistrate series. Check out some of the concept art for these packs in today's news post.",
     "image": "images/poe-logo.png",
     "subheading": "Path of Exile",
     "game_icon": "",
