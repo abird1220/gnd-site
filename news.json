@@ -1,5 +1,19 @@
 [
   {
+    "title": "Announcing Path of Exile: Keepers of The Flame",
+    "url": "https://www.pathofexile.com/forum/view-thread/3869036",
+    "date": "2025-10-23T19:00:34Z",
+    "summary": "We're excited to bring you the announcements from GGG Live, where we’ll be revealing our new Path of Exile expansion, Keepers of The Flame! In this news post we've put together links to everything that is being announced during the www.twitch.tv/pathofexile livestream. We'll be updating this news post for your reference as the livestream progresses.",
+    "image": "images/poe-logo.png",
+    "subheading": "Path of Exile",
+    "game_icon": "",
+    "game": "pathofexile",
+    "source": "poe",
+    "genre": "ARPG",
+    "active_start": "",
+    "active_end": ""
+  },
+  {
     "title": "How Midnight’s Upcoming Game Changes Will Impact Combat Addons",
     "url": "https://news.blizzard.com/en-us/article/24244638/how-midnights-upcoming-game-changes-will-impact-combat-addons",
     "date": "2025-10-23T17:00:00Z",
@@ -954,20 +968,6 @@
     "url": "https://www.pathofexile.com/forum/view-thread/3813889",
     "date": "2025-07-15T23:40:50Z",
     "summary": "It's already been one month since the launch of Secrets of the Atlas and there are some pretty neat builds popping up! While these builds may not shake up the meta, they certainly showcase a lot of creativity or in some cases take us down memory lane and revisit old favourites!",
-    "image": "images/poe-logo.png",
-    "subheading": "Path of Exile",
-    "game_icon": "",
-    "game": "pathofexile",
-    "source": "poe",
-    "genre": "ARPG",
-    "active_start": "",
-    "active_end": ""
-  },
-  {
-    "title": "Secrets of the Atlas Concept Art - Supporter Packs",
-    "url": "https://www.pathofexile.com/forum/view-thread/3813286",
-    "date": "2025-07-14T21:25:56Z",
-    "summary": "The launch of Secrets of the Atlas introduced two new series of supporter packs; the Cryptkeeper series and the Phrecian Magistrate series. Check out some of the concept art for these packs in today's news post.",
     "image": "images/poe-logo.png",
     "subheading": "Path of Exile",
     "game_icon": "",
