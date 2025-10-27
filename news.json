@@ -1,5 +1,16 @@
 [
   {
+    "title": "34.0 Patch Notes",
+    "url": "https://news.blizzard.com/en-us/article/24243857/34-0-patch-notes",
+    "date": "2025-10-27T16:45:00Z",
+    "summary": "Check out the details on the launch of Across the Timeways, a new Arena season, and much more!",
+    "image": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt2fdf72e7afeb595c/68fbfa13c39996ce371cf9fa/HS_34p0_Patch_Notes_BattleNet_App_CrossPromoStatic_1920x1080_LZO01.jpg",
+    "subheading": "Hearthstone",
+    "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt05905fb295358316/5d48a37efbf0e17fc6dafd3c/hearthstone.svg",
+    "game": "Hearthstone",
+    "source": "blizzard"
+  },
+  {
     "title": "Rise the Ranks in the Bout of Realms",
     "url": "https://news.blizzard.com/en-us/article/24244452/rise-the-ranks-in-the-bout-of-realms",
     "date": "2025-10-27T13:00:00Z",
@@ -47,17 +58,6 @@
     "source": "blizzard"
   },
   {
-    "title": "Dive into Arcadia’s chaos—Early Access has arrived!",
-    "url": "https://news.blizzard.com/en-us/article/24242858/dive-into-arcadias-chaosearly-access-has-arrived",
-    "date": "2025-10-24T17:00:00Z",
-    "summary": "It’s happening! The Outer Worlds 2 Early Access is officially live for Premium Edition players— which means you can start finding what flaws you have, in a good way, five days early... Why wait for the rest of the Earth Directorate to catch up when you can dive straight into Arcadia’s chaos today?",
-    "image": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt599ece53577e2824/68f2b910acfe31d5cd4e392f/phx_news_media_arkansas_central_interface.webp",
-    "subheading": "The Outer Worlds 2",
-    "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/bltfe165e21e017f978/68efd6f8b5da2d4a4a224c65/game_icon_arkansas.svg",
-    "game": "The Outer Worlds 2",
-    "source": "blizzard"
-  },
-  {
     "title": "WoW Weekly: Legion Remix, Mythic Dungeon International, Turbo Boost, and More!",
     "url": "https://news.blizzard.com/en-us/article/24242428/wow-weekly-legion-remix-mythic-dungeon-international-turbo-boost-and-more",
     "date": "2025-10-24T17:00:00Z",
@@ -66,6 +66,17 @@
     "subheading": "World of Warcraft",
     "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt637a995645d7e161/5d48a388a58fc57f3dafd9f1/world-of-warcraft.svg",
     "game": "World of Warcraft",
+    "source": "blizzard"
+  },
+  {
+    "title": "Dive into Arcadia’s chaos—Early Access has arrived!",
+    "url": "https://news.blizzard.com/en-us/article/24242858/dive-into-arcadias-chaosearly-access-has-arrived",
+    "date": "2025-10-24T17:00:00Z",
+    "summary": "It’s happening! The Outer Worlds 2 Early Access is officially live for Premium Edition players— which means you can start finding what flaws you have, in a good way, five days early... Why wait for the rest of the Earth Directorate to catch up when you can dive straight into Arcadia’s chaos today?",
+    "image": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt599ece53577e2824/68f2b910acfe31d5cd4e392f/phx_news_media_arkansas_central_interface.webp",
+    "subheading": "The Outer Worlds 2",
+    "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/bltfe165e21e017f978/68efd6f8b5da2d4a4a224c65/game_icon_arkansas.svg",
+    "game": "The Outer Worlds 2",
     "source": "blizzard"
   },
   {
@@ -345,17 +356,6 @@
     "subheading": "World of Warcraft",
     "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt637a995645d7e161/5d48a388a58fc57f3dafd9f1/world-of-warcraft.svg",
     "game": "World of Warcraft",
-    "source": "blizzard"
-  },
-  {
-    "title": "Passkeys and One-Time Passcodes—Faster and safer ways to log in",
-    "url": "https://news.blizzard.com/en-us/article/24240392/passkeys-and-one-time-passcodesfaster-and-safer-ways-to-log-in",
-    "date": "2025-10-15T17:00:00Z",
-    "summary": "Battle.net launches passkeys and one-time passcodes: passwordless security for players worldwide",
-    "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/og/OG2PUU2Q7SQA1760481378451.webp",
-    "subheading": "Battle.net",
-    "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blta8332c202f63da84/60f74b93ef929764f0bb4e96/nexus-color.svg",
-    "game": "Battle.net",
     "source": "blizzard"
   },
   {
