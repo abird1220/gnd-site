@@ -43,7 +43,7 @@
     "url": "https://news.blizzard.com/en-us/article/24244452/rise-the-ranks-in-the-bout-of-realms",
     "date": "2025-10-27T13:00:00Z",
     "summary": "The Bout of Realms returns for you to assemble your most elite allies and rise the ranks.",
-    "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/m9/M9MS6UA2CO6R1761345746369.png",
+    "image": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt1e88a72fe9a08fad/69003f34a3d97be174f9de4e/Bout_of_Realms_1920_x_1080.png",
     "subheading": "Diablo Immortal",
     "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt989ffb415ea874fa/6081aad335bb4d0cbd9c064b/D_Immortal_Icon.svg",
     "game": "Diablo Immortal",
@@ -86,17 +86,6 @@
     "source": "blizzard"
   },
   {
-    "title": "Dive into Arcadia’s chaos—Early Access has arrived!",
-    "url": "https://news.blizzard.com/en-us/article/24242858/dive-into-arcadias-chaosearly-access-has-arrived",
-    "date": "2025-10-24T17:00:00Z",
-    "summary": "It’s happening! The Outer Worlds 2 Early Access is officially live for Premium Edition players— which means you can start finding what flaws you have, in a good way, five days early... Why wait for the rest of the Earth Directorate to catch up when you can dive straight into Arcadia’s chaos today?",
-    "image": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt599ece53577e2824/68f2b910acfe31d5cd4e392f/phx_news_media_arkansas_central_interface.webp",
-    "subheading": "The Outer Worlds 2",
-    "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/bltfe165e21e017f978/68efd6f8b5da2d4a4a224c65/game_icon_arkansas.svg",
-    "game": "The Outer Worlds 2",
-    "source": "blizzard"
-  },
-  {
     "title": "WoW Weekly: Legion Remix, Mythic Dungeon International, Turbo Boost, and More!",
     "url": "https://news.blizzard.com/en-us/article/24242428/wow-weekly-legion-remix-mythic-dungeon-international-turbo-boost-and-more",
     "date": "2025-10-24T17:00:00Z",
@@ -105,6 +94,17 @@
     "subheading": "World of Warcraft",
     "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt637a995645d7e161/5d48a388a58fc57f3dafd9f1/world-of-warcraft.svg",
     "game": "World of Warcraft",
+    "source": "blizzard"
+  },
+  {
+    "title": "Dive into Arcadia’s chaos—Early Access has arrived!",
+    "url": "https://news.blizzard.com/en-us/article/24242858/dive-into-arcadias-chaosearly-access-has-arrived",
+    "date": "2025-10-24T17:00:00Z",
+    "summary": "It’s happening! The Outer Worlds 2 Early Access is officially live for Premium Edition players— which means you can start finding what flaws you have, in a good way, five days early... Why wait for the rest of the Earth Directorate to catch up when you can dive straight into Arcadia’s chaos today?",
+    "image": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt599ece53577e2824/68f2b910acfe31d5cd4e392f/phx_news_media_arkansas_central_interface.webp",
+    "subheading": "The Outer Worlds 2",
+    "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/bltfe165e21e017f978/68efd6f8b5da2d4a4a224c65/game_icon_arkansas.svg",
+    "game": "The Outer Worlds 2",
     "source": "blizzard"
   },
   {
