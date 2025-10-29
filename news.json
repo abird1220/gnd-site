@@ -133,17 +133,6 @@
     "active_end": ""
   },
   {
-    "title": "WoW Weekly: Legion Remix, Mythic Dungeon International, Turbo Boost, and More!",
-    "url": "https://news.blizzard.com/en-us/article/24242428/wow-weekly-legion-remix-mythic-dungeon-international-turbo-boost-and-more",
-    "date": "2025-10-24T17:00:00Z",
-    "summary": "Fast, frenetic fun awaits in Legion Remix, our most-celebrated MDI champions and contenders return to shatter records, and more! Every week brings thrilling new adventures and loot, so rally your allies and forge your legend in Azeroth.",
-    "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/7p/7PCXGC0TF2XK1761255607833.png",
-    "subheading": "World of Warcraft",
-    "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt637a995645d7e161/5d48a388a58fc57f3dafd9f1/world-of-warcraft.svg",
-    "game": "World of Warcraft",
-    "source": "blizzard"
-  },
-  {
     "title": "Dive into Arcadia’s chaos—Early Access has arrived!",
     "url": "https://news.blizzard.com/en-us/article/24242858/dive-into-arcadias-chaosearly-access-has-arrived",
     "date": "2025-10-24T17:00:00Z",
@@ -152,6 +141,17 @@
     "subheading": "The Outer Worlds 2",
     "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/bltfe165e21e017f978/68efd6f8b5da2d4a4a224c65/game_icon_arkansas.svg",
     "game": "The Outer Worlds 2",
+    "source": "blizzard"
+  },
+  {
+    "title": "WoW Weekly: Legion Remix, Mythic Dungeon International, Turbo Boost, and More!",
+    "url": "https://news.blizzard.com/en-us/article/24242428/wow-weekly-legion-remix-mythic-dungeon-international-turbo-boost-and-more",
+    "date": "2025-10-24T17:00:00Z",
+    "summary": "Fast, frenetic fun awaits in Legion Remix, our most-celebrated MDI champions and contenders return to shatter records, and more! Every week brings thrilling new adventures and loot, so rally your allies and forge your legend in Azeroth.",
+    "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/7p/7PCXGC0TF2XK1761255607833.png",
+    "subheading": "World of Warcraft",
+    "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt637a995645d7e161/5d48a388a58fc57f3dafd9f1/world-of-warcraft.svg",
+    "game": "World of Warcraft",
     "source": "blizzard"
   },
   {
