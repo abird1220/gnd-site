@@ -125,7 +125,7 @@
     "title": "The Infernal Hordes Blazes with Compass to Carnage",
     "url": "https://news.blizzard.com/en-us/article/24243858/the-infernal-hordes-blazes-with-compass-to-carnage",
     "date": "2025-10-30T17:00:00Z",
-    "summary": "For a limited time, earn twice the Infernal Compasses and endure increased Chaos Waves in Compass to Carnage.",
+    "summary": "For a limited time, earn increased Infernal Compasses and endure more Chaos Waves in Compass to Carnage.",
     "image": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/bltd0681f6a2012cac4/690145ba299f68751b657971/CompToCarnage_Blog_1920x1080_ab01_(1)_(1).png",
     "subheading": "Diablo IV",
     "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt95aebf4d119210f5/5e543f7e8dc1e51c53168b7a/games-d4-colored.svg",
@@ -280,17 +280,6 @@
     "active_end": ""
   },
   {
-    "title": "Dive into Arcadia’s chaos—Early Access has arrived!",
-    "url": "https://news.blizzard.com/en-us/article/24242858/dive-into-arcadias-chaosearly-access-has-arrived",
-    "date": "2025-10-24T17:00:00Z",
-    "summary": "It’s happening! The Outer Worlds 2 Early Access is officially live for Premium Edition players— which means you can start finding what flaws you have, in a good way, five days early... Why wait for the rest of the Earth Directorate to catch up when you can dive straight into Arcadia’s chaos today?",
-    "image": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt599ece53577e2824/68f2b910acfe31d5cd4e392f/phx_news_media_arkansas_central_interface.webp",
-    "subheading": "The Outer Worlds 2",
-    "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/bltfe165e21e017f978/68efd6f8b5da2d4a4a224c65/game_icon_arkansas.svg",
-    "game": "The Outer Worlds 2",
-    "source": "blizzard"
-  },
-  {
     "title": "WoW Weekly: Legion Remix, Mythic Dungeon International, Turbo Boost, and More!",
     "url": "https://news.blizzard.com/en-us/article/24242428/wow-weekly-legion-remix-mythic-dungeon-international-turbo-boost-and-more",
     "date": "2025-10-24T17:00:00Z",
@@ -299,6 +288,17 @@
     "subheading": "World of Warcraft",
     "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt637a995645d7e161/5d48a388a58fc57f3dafd9f1/world-of-warcraft.svg",
     "game": "World of Warcraft",
+    "source": "blizzard"
+  },
+  {
+    "title": "Dive into Arcadia’s chaos—Early Access has arrived!",
+    "url": "https://news.blizzard.com/en-us/article/24242858/dive-into-arcadias-chaosearly-access-has-arrived",
+    "date": "2025-10-24T17:00:00Z",
+    "summary": "It’s happening! The Outer Worlds 2 Early Access is officially live for Premium Edition players— which means you can start finding what flaws you have, in a good way, five days early... Why wait for the rest of the Earth Directorate to catch up when you can dive straight into Arcadia’s chaos today?",
+    "image": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt599ece53577e2824/68f2b910acfe31d5cd4e392f/phx_news_media_arkansas_central_interface.webp",
+    "subheading": "The Outer Worlds 2",
+    "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/bltfe165e21e017f978/68efd6f8b5da2d4a4a224c65/game_icon_arkansas.svg",
+    "game": "The Outer Worlds 2",
     "source": "blizzard"
   },
   {
