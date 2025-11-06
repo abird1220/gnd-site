@@ -1,5 +1,16 @@
 [
   {
+    "title": "Developer Insight: Hearthsteel Virtual Currency and Housing in Midnight",
+    "url": "https://news.blizzard.com/en-us/article/24242736/developer-insight-hearthsteel-virtual-currency-and-housing-in-midnight",
+    "date": "2025-11-06T18:00:00Z",
+    "summary": "In Midnight, we’re introducing a new virtual currency to purchase select Housing items. In this article, we take you into the philosophy surrounding this addition to the game while sharing some further insights on how we intend it to work.",
+    "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/wq/WQ58DH4NQVTI1738635410721.png",
+    "subheading": "World of Warcraft",
+    "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt637a995645d7e161/5d48a388a58fc57f3dafd9f1/world-of-warcraft.svg",
+    "game": "World of Warcraft",
+    "source": "blizzard"
+  },
+  {
     "title": "Keepers of the Flame Twitch Highlights",
     "url": "https://www.pathofexile.com/forum/view-thread/3874244",
     "date": "2025-11-05T23:33:09Z",
@@ -458,17 +469,6 @@
     "genre": "ARPG",
     "active_start": "",
     "active_end": ""
-  },
-  {
-    "title": "How Midnight’s Upcoming Game Changes Will Impact Combat Addons",
-    "url": "https://news.blizzard.com/en-us/article/24244638/how-midnights-upcoming-game-changes-will-impact-combat-addons",
-    "date": "2025-10-23T17:00:00Z",
-    "summary": "The journey to update World of Warcraft’s combat experience continues, with a focus on making gameplay more intuitive and approachable—without requiring addons. In the Midnight expansion, we’re working closely with addon authors and taking in community feedback to create a more streamlined and engaging combat experience for everyone. The World of Warcraft development team shares the guiding principles behind these updates, focusing on ongoing customization and increased accessibility whether players choose to use addons or not.",
-    "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/t8/T8QJDWCF1T2Y1755621947838.png",
-    "subheading": "World of Warcraft",
-    "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt637a995645d7e161/5d48a388a58fc57f3dafd9f1/world-of-warcraft.svg",
-    "game": "World of Warcraft",
-    "source": "blizzard"
   },
   {
     "title": "Keepers of the Flame Livestream Twitch Drops",
