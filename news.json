@@ -1,5 +1,16 @@
 [
   {
+    "title": "Setting Things Right with Ranked Rewards and Mister Clocksworth",
+    "url": "https://news.blizzard.com/en-us/article/24247003/setting-things-right-with-ranked-rewards-and-mister-clocksworth",
+    "date": "2025-11-07T22:30:00Z",
+    "summary": "We’re sharing our plan to fix a pair of recent issues.",
+    "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/d7/D7V14RPSWXZU1762552588440.jpg",
+    "subheading": "Hearthstone",
+    "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt05905fb295358316/5d48a37efbf0e17fc6dafd3c/hearthstone.svg",
+    "game": "Hearthstone",
+    "source": "blizzard"
+  },
+  {
     "title": "Blend Devilish Brews with Diablo: Drinks, Potions, & Elixirs",
     "url": "https://news.blizzard.com/en-us/article/24246200/blend-devilish-brews-with-diablo-drinks-potions-elixirs",
     "date": "2025-11-07T18:26:16Z",
@@ -11,17 +22,6 @@
     "source": "blizzard"
   },
   {
-    "title": "WoW Weekly: Legionfall Now Live, New Twitch Drop Ahead, and More!",
-    "url": "https://news.blizzard.com/en-us/article/24242431/wow-weekly-legionfall-now-live-new-twitch-drop-ahead-and-more",
-    "date": "2025-11-07T18:00:00Z",
-    "summary": "Get ready for fast frenetic fun in Legion Remix, don a cozy purple sweatsuit with a new Twitch Drop, and more! Every week brings thrilling new adventures and loot, so rally your allies and forge your legend in Azeroth.",
-    "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/ep/EPKHX7CCMLV21762387607305.png",
-    "subheading": "World of Warcraft",
-    "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt637a995645d7e161/5d48a388a58fc57f3dafd9f1/world-of-warcraft.svg",
-    "game": "World of Warcraft",
-    "source": "blizzard"
-  },
-  {
     "title": "Black Ops 7 Ready for Launch: Zombies",
     "url": "https://news.blizzard.com/en-us/article/24244422/black-ops-7-ready-for-launch-zombies",
     "date": "2025-11-07T18:00:00Z",
@@ -30,6 +30,17 @@
     "subheading": "Call of Duty",
     "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt317f15ba7969c454/64c9a67920099ccbc19b2f1f/callofduty.svg",
     "game": "Call of Duty",
+    "source": "blizzard"
+  },
+  {
+    "title": "WoW Weekly: Legionfall Now Live, New Twitch Drop Ahead, and More!",
+    "url": "https://news.blizzard.com/en-us/article/24242431/wow-weekly-legionfall-now-live-new-twitch-drop-ahead-and-more",
+    "date": "2025-11-07T18:00:00Z",
+    "summary": "Get ready for fast frenetic fun in Legion Remix, don a cozy purple sweatsuit with a new Twitch Drop, and more! Every week brings thrilling new adventures and loot, so rally your allies and forge your legend in Azeroth.",
+    "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/ep/EPKHX7CCMLV21762387607305.png",
+    "subheading": "World of Warcraft",
+    "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt637a995645d7e161/5d48a388a58fc57f3dafd9f1/world-of-warcraft.svg",
+    "game": "World of Warcraft",
     "source": "blizzard"
   },
   {
@@ -405,17 +416,6 @@
     "genre": "ARPG",
     "active_start": "",
     "active_end": ""
-  },
-  {
-    "title": "Collect timeless treasures from Across the Timeways!",
-    "url": "https://news.blizzard.com/en-us/article/24241547/collect-timeless-treasures-from-across-the-timeways",
-    "date": "2025-10-28T17:00:00Z",
-    "summary": "Collect timeless treasures from Across the Timeways with the new Rewards Track!",
-    "image": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/bltb457f03d64614d15/68ffccc937ded48b46e74c7e/HS_34p0_RewardsTrack_BattleNet_App_CrossPromoStatic_1920x1080_LZO01.png",
-    "subheading": "Hearthstone",
-    "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt05905fb295358316/5d48a37efbf0e17fc6dafd3c/hearthstone.svg",
-    "game": "Hearthstone",
-    "source": "blizzard"
   },
   {
     "title": "New Halloween Microtransactions",
