@@ -33,17 +33,6 @@
     "source": "blizzard"
   },
   {
-    "title": "Black Ops 7 Ready for Launch: Zombies",
-    "url": "https://news.blizzard.com/en-us/article/24244422/black-ops-7-ready-for-launch-zombies",
-    "date": "2025-11-07T18:00:00Z",
-    "summary": "Make sure you’re ready to face the biggest Round-Based Zombies map with this comprehensive checklist of your Zombies Loadout, checking out the available Tacticals, Lethals, Field Upgrades and Support, GobbleGums, Augments, Cursed Updates, and more. Get ready to explore the Dark Aether at Black Ops 7’s launch on November 14.",
-    "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/oc/OCIP4F1H51V61762542546706.jpg",
-    "subheading": "Call of Duty",
-    "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt317f15ba7969c454/64c9a67920099ccbc19b2f1f/callofduty.svg",
-    "game": "Call of Duty",
-    "source": "blizzard"
-  },
-  {
     "title": "WoW Weekly: Legionfall Now Live, New Twitch Drop Ahead, and More!",
     "url": "https://news.blizzard.com/en-us/article/24242431/wow-weekly-legionfall-now-live-new-twitch-drop-ahead-and-more",
     "date": "2025-11-07T18:00:00Z",
@@ -52,6 +41,17 @@
     "subheading": "World of Warcraft",
     "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt637a995645d7e161/5d48a388a58fc57f3dafd9f1/world-of-warcraft.svg",
     "game": "World of Warcraft",
+    "source": "blizzard"
+  },
+  {
+    "title": "Black Ops 7 Ready for Launch: Zombies",
+    "url": "https://news.blizzard.com/en-us/article/24244422/black-ops-7-ready-for-launch-zombies",
+    "date": "2025-11-07T18:00:00Z",
+    "summary": "Make sure you’re ready to face the biggest Round-Based Zombies map with this comprehensive checklist of your Zombies Loadout, checking out the available Tacticals, Lethals, Field Upgrades and Support, GobbleGums, Augments, Cursed Updates, and more. Get ready to explore the Dark Aether at Black Ops 7’s launch on November 14.",
+    "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/oc/OCIP4F1H51V61762542546706.jpg",
+    "subheading": "Call of Duty",
+    "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blt317f15ba7969c454/64c9a67920099ccbc19b2f1f/callofduty.svg",
+    "game": "Call of Duty",
     "source": "blizzard"
   },
   {
@@ -154,8 +154,8 @@
   {
     "title": "Get ready: BlizzCon early bird passes go on sale November 7",
     "url": "https://news.blizzard.com/en-us/article/24245211/get-ready-blizzcon-early-bird-passes-go-on-sale-november-7",
-    "date": "2025-11-05T17:01:46Z",
-    "summary": "Early bird passes will be available on November 7, 2025, at a special rate.",
+    "date": "2025-11-05T17:01:00Z",
+    "summary": "If you missed the first sale, you’ll soon have another chance to get your BlizzCon Pass.",
     "image": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/blta818a51eed439bcc/6909291304242639d85eb0fc/Battle.net_App_Notification.jpg",
     "subheading": "Blizzard",
     "game_icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt286175c11a6b3f4c/bltbd6b3637d77c60f0/5da8a74e9147457fdde5f6d3/blizzard.svg",
