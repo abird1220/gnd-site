@@ -1,11 +1,11 @@
 {
   "https://news.blizzard.com/en-us/": {
     "body_sha256": null,
-    "etag": "W/\"1fd1-voefVoFEKgXKY+hKyDddDFCrOQs\"",
+    "etag": "W/\"1fd1-Ncn8fhWF38nHuXmBgYp6KLmSsaE\"",
     "last_modified": null
   },
   "https://pokemongolive.com/news/": {
-    "body_sha256": "b8e4831da826db4e41286e6842bfee728d25019caab0247fdde970a573e85a2f",
+    "body_sha256": "cb37612a2b1a63fd60dd092634541744e650fa8f74400ab26698ce53f630199f",
     "etag": null,
     "last_modified": null
   },
@@ -16,7 +16,7 @@
   },
   "https://worldofwarcraft.blizzard.com/en-us/news": {
     "body_sha256": null,
-    "etag": "W/\"59a77-wefF2Acj4xLhKa3urDaLZ+WfB88\"",
+    "etag": "W/\"59a77-qVDr6cqZct3RGPpKQXxfT2lC0OE\"",
     "last_modified": null
   },
   "https://www.pathofexile.com/news": {
