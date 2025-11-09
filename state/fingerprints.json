@@ -1,11 +1,11 @@
 {
   "https://news.blizzard.com/en-us/": {
     "body_sha256": null,
-    "etag": "W/\"1fd1-2ZBLcCJPkyK6POR8GQk1X9D2mw0\"",
+    "etag": "W/\"1fd1-wl88RfeOonzUw/i8LBJzndO4rm4\"",
     "last_modified": null
   },
   "https://pokemongolive.com/news/": {
-    "body_sha256": "545898bd504d7720ef5f157af22a42f5dbae70ce7616a7fae55ce0df236d7756",
+    "body_sha256": "b537eeb1a9062a278558395392545c0827ee1f0a4e80c5742a0220e4818456b7",
     "etag": null,
     "last_modified": null
   },
